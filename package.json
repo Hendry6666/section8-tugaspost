@@ -1,0 +1,11 @@
+{
+  "name": "Hendry",
+  "version": "1.0.0",
+  "description": "Section 8",
+  "main": "index.js",
+  "author": "Hendry6666",
+  "license": "MIT",
+  "dependencies": {
+    "cypress": "^10.9.0"
+  }
+}
